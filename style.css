@@ -64,7 +64,7 @@ h4 {
 
  .logo {
   font: 900 1.85rem var(--logo-font);
-  color: #0a426a;
+  color: #507894;
   
 
  }
@@ -83,7 +83,7 @@ h4 {
   width: 100%;
   position: fixed;
   z-index: 100;
-  background-color: #f4f6f9;
+  background-color: #afc4e5;
   top: 0;
   left: 0;
 }
